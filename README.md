@@ -6,7 +6,7 @@
 * Рекомендуется использовать [Github Desktop](https://desktop.github.com/).
 * В командной строке можно воспользоваться [git](https://git-scm.com/downloads)
 ```
-git clone https://github.com/stipot/dscience
+git clone https://github.com/stipot/dscience.git
 ```
 
 2. Для редактирования рекомендуется воспользоваться средой разработки [Visual Studio Code](https://code.visualstudio.com/download) - далее VSCode
