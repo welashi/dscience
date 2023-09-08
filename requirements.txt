@@ -1,5 +1,6 @@
 ipykernel
 pandas
+numpy
 matplotlib
 scikit-learn
 scipy
@@ -7,3 +8,6 @@ utils
 apyori
 nltk
 gensim
+TA-Lib
+hmmlearn
+plotly
